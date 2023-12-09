@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">InfoLaptop</string>
+    <string name="item_name">Nama Laptop</string>
+    <string name="description">Deskripsi Laptop</string>
+    <string name="about">About Dev</string>
+    <string name="avisena">Avisena</string>
+    <string name="txt_status">9 Grade Junior High School Student At IDN Boarding School Solo.</string>
+    <string name="txt_birth"> Bengkulu, 18 April 2009</string>
+    <string name="birth">Birth :</string>
+    <string name="nama">Enver Avicena</string>
+    <string name="semarang">Semarang</string>
+    <string name="_5290">5290</string>
+    <string name="follower">Follower</string>
+    <string name="_1090">1090</string>
+    <string name="following">Following</string>
+    <string name="_109">109</string>
+    <string name="project">Project</string>
+    <string name="_34">34</string>
+    <string name="experience">Experience</string>
+    <string name="content_text">Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL, on October 4. We attended Google’s London UK event, mirroring the main one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat devices which will apparently usurp Google’s long-standing Nexus series.</string>
+    <string name="content_specs_display">5.0 inches\n
+        FHD AMOLED at 441ppi\n
+        2.5D Corning® Gorilla® Glass 4</string>
+    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+        Standby time (LTE): up to 19 days\n
+        Talk time (3g/WCDMA): up to 26 hours\n
+        Internet use time (Wi-Fi): up to 13 hours\n
+        Internet use time (LTE): up to 13 hours\n
+        Video playback: up to 13 hours\n
+        Audio playback (via headset): up to 110 hours\n
+        Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="title">Google Pixel</string>
+    <string name="specification">Specification</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="company">Company</string>
+    <string name="the_company">Lenovo</string>
+    <string name="buy">Buy</string>
+    <string name="price">$735</string>
+    <string name="gmail_info">enver.avisena@gmail.com</string>
+    <string name="laptop_details">Laptop Details</string>
+    <string name="nama_laptop">Nama Laptop</string>
+    <string name="item_price">Harga</string>
+
+    <string-array name="data_name">
+        <item>Lenovo Thinkpad P1</item>
+        <item>Lenovo Thinkpad P14s Gen 3</item>
+        <item>Lenovo Thinkpad P16s Gen 1</item>
+        <item>Lenovo Thinkpad P15 Gen 2</item>
+        <item>Lenovo Thinkpad T15p Gen 3</item>
+        <item>Lenovo Yoga Book 9i Gen 8</item>
+        <item>Lenovo Yoga Pro 7 Gen 8</item>
+        <item>Lenovo Yoga Pro 7i Gen 8</item>
+        <item>Lenovo Yoga Pro 9i Gen 8 </item>
+        <item>Lenovo Yoga Slim 7 Carbon Gen 6</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> Laptop Mobile workstation ultratipis, Diberdayakan dengan pemrosesan Intel® Xeon®, Sertifikasi ISV</item>
+        <item> Laptop Mobile workstation 14\'\' bersertifikasi ISV dengan prosesor Intel ® Core™ terbaru, Pilihan grafis diskrit NVIDIA ® atau grafis Intel ® terintegrasi, Berbagai opsi layar 16:10, termasuk sentuhan &amp; kalibrasi warna X-Rite </item>
+        <item> Laptop Dengan OS Hingga Windows 11 Pro, Workstation Mobile tingkat pro yang tangguh, Prosesor Intel ® Core™ Seri HX hingga Generasi ke-12, Opsi tampilan grafis &amp; OLED NVIDIA ® RTX™</item>
+        <item> Grafis NVIDIA ® RTX™ kelas profesional, Workstation 15,6" bersertifikasi ISV yang sangat dapat disesuaikan, Ideal untuk pelajar, insinyur, CAD, dan profesi industri</item>
+        <item> Prosesor hingga Intel ® Core™ i7 untuk daya saat bepergian, OSHingga Windows 11 Pro, Pilihan tampilan 15,6" yang menakjubkan, termasuk layar UHD, Grafis NVIDIA ® GeForce RTX™ opsional</item>
+        <item> Bebaskan kreativitas dengan Intel ® Evo™ &amp; layar OLED ganda, Desain ringan untuk pembuatan konten saat bepergian, Hiburan terbaik dari Dolby Atmos ® &amp; Bowers &amp; Wilkins</item>
+        <item> Laptop Dengan Hingga Windows 11 Pro, Layar PureSight 16″ yang luas dan indah, Dibangun secara performa dengan prosesor AMD Ryzen™ 7000 Series, Fitur cerdas yang meningkatkan pengalaman</item>
+        <item> Laptop Dengan prosesor Intel ® Generasi ke -13 Multitask, Baterai sepanjang hari dengan teknologi pengisian cepat, Desain 2-in-1 tipis &amp; ringan</item>
+        <item> Laptop Didukung oleh prosesor Intel ®  Core™ Generasi ke- 13, Penyimpanan ultracepat, memori, port &amp; konektivitas, Pilihan tampilan luar biasa, login wajah yang aman</item>
+        <item> Tingkatkan kreativitas Anda dengan AMD Ryzen™, Laptop OLED 14" paling ringan di dunia, NVIDIA opsional®Grafis diskrit</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/lenovo_thinkpad_p1</item>
+        <item>@drawable/lenovo_thinkpad_p14s_gen_3</item>
+        <item>@drawable/lenovo_thinkpad_p16s_gen_1</item>
+        <item>@drawable/thinkpad_p15_gen_2</item>
+        <item>@drawable/lenovo_thinkpad_t15p_gen_3</item>
+        <item>@drawable/lenovo_yoga_book_9i_gen_8</item>
+        <item>@drawable/lenovo_yoga_pro_7_gen_8</item>
+        <item>@drawable/lenovo_yoga_pro_7i_gen_8</item>
+        <item>@drawable/lenovo_yoga_pro_9i_gen_8_16</item>
+        <item>@drawable/lenovo_yoga_slim_7_carbon_gen_6</item>
+    </integer-array>
+
+    <string-array name="data_price">
+        <item>Rp 10.500.000</item>
+        <item>Rp 14.399.000</item>
+        <item>Rp 38.999.000</item>
+        <item>Rp 16.299.000</item>
+        <item>Rp 17.548.000</item>
+        <item>Rp 34.998.000</item>
+        <item>Rp 14.099.000</item>
+        <item>Rp 16.879.000</item>
+        <item>Rp 17.624.000</item>
+        <item>Rp 12.411.000</item>
+    </string-array>
+
+</resources>
