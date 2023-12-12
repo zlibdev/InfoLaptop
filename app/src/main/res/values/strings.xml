@@ -43,6 +43,7 @@
     <string name="laptop_details">Laptop Details</string>
     <string name="nama_laptop">Nama Laptop</string>
     <string name="item_price">Harga</string>
+    <string name="about_email">enver.avisena@gmail.com</string>
 
     <string-array name="data_name">
         <item>Lenovo Thinkpad P1</item>
